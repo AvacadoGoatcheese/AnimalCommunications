@@ -6,4 +6,4 @@ This project was submitted at the below link to an IoT Competition centered arou
 https://www.hackster.io/animalcomms/correlations-in-animal-movement-and-communication-camc-dd178d
 
 ## Current Progress
-* Will be refactored if possible to work in an OOP context and have proper directory structure/setup scripts because, as of now, it's a single file. The project submission is slightly old, and I hadn't realized the issues with deploying Python in an embedded context by then.
+* Currently being refactored to work in Rust (because (a) speed, (b) proper thread safety, (c) better tooling, etc.) and have proper directory structure/setup scripts because, as of now, it's a single file. The project submission is slightly old, and I hadn't realized the issues with deploying Python in an embedded context by then.
